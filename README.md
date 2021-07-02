@@ -54,7 +54,7 @@ MCA final year student. Currently working as lead developer WSDC and backend dev
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshukadian&theme=radical" />
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=himanshukadian&&show_icons=true&theme=radical&line_height=27&v=5" alt="Himanshu's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=himanshukadian&&show_icons=true&theme=radical&line_height=27" alt="Himanshu's GitHub Stats" />
 
 
 <a href="https://github.com/himanshukadian/nitadda">
