@@ -22,7 +22,7 @@
 <br/>
 <br/>
 
-Contributer at WSDC NITW | Java | Python | Django
+Contributer at WSDC NITW | Java | Python | Django | Spring MVC with JDBC Template
 
 ## About :sunglasses:
 MCA final year student. Currently working as lead developer WSDC and backend developer at BugClaim. Passionate about web devlopement and Machine Learning. Also, have some knowledge of Big data and Data Analysis.
@@ -62,7 +62,7 @@ MCA final year student. Currently working as lead developer WSDC and backend dev
 
 
 ##  Contact Me :speech_balloon:
-[![Twitter Badge](https://img.shields.io/badge/-#-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=#)](#) [![Linkedin Badge](https://img.shields.io/badge/-himanshukadian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kadianhimanshu/)](https://www.linkedin.com/in/kadianhimanshu/) [![Gmail Badge](https://img.shields.io/badge/-himanshuchaudhary.nitw@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:himanshuchaudhary.nitw@gmail.com)](mailto:himanshuchaudhary.nitw@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@#-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=#)](#)
+[![Twitter Badge](https://img.shields.io/badge/-himanshukadian-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=#)](himanshukadian) [![Linkedin Badge](https://img.shields.io/badge/-himanshukadian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kadianhimanshu/)](https://www.linkedin.com/in/kadianhimanshu/) [![Gmail Badge](https://img.shields.io/badge/-himanshuchaudhary.nitw@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:himanshuchaudhary.nitw@gmail.com)](mailto:himanshuchaudhary.nitw@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-@himanshukadian-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=#)](himanshukadian)
 
 <p align="center"> 
   Visitor count<br>
